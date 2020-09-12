@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">HW3.3.2</string>
+    <string name="showedText">Hello world! Homework: "Language switching".</string>
+    <string name="ok" translatable="false">Choose</string>/>
+
+    <string-array name="languages">
+        <item>EN</item>
+        <item>RU</item>
+    </string-array>
+</resources>
